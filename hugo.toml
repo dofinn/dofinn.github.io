@@ -1,6 +1,6 @@
-baseurl = "https://username.github.io"
+baseurl = "https://domfinn.com"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "Thoughts to Words"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -15,10 +15,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  homeTitle = "Dom Finn" # Set a different text for the header on the home page
+  subtitle = "SRE | Technology | Personal"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+#  logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -32,7 +32,7 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -48,37 +48,37 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+  name = "Dom Finn"
+  website = "domfinn.com"
+  email = "dom@domfinn.com"
+#  facebook = "username"
+  github = "dofinn"
+#  gitlab = "username"
+#  bitbucket = "username"
+  twitter = "atomic_dom"
+#  reddit = "username"
+  linkedin = "dom-finn"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+#  mastodon = "url"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+#  medium = "username"
+#  discord = "invite code (https://discord.gg/XXXXXXX)"
+#  strava = "userid"
 
 [[menu.main]]
     name = "Blog"
@@ -88,12 +88,12 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
     weight = 2
+
+#[[menu.main]]
+#    identifier = "samples"
+#    name = "Samples"
+#    weight = 2
 
 [[menu.main]]
     parent = "samples"

@@ -1,2 +1,2 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## Welcome
+This is the professional website of Dom Finn, an established SRE and Technologist. Here you will find both tech and personal content. 
