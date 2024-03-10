@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observability on Thoughts to Words</title>
+    <link>http://localhost:1313/tags/observability/</link>
+    <description>Recent content in Observability on Thoughts to Words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dom@domfinn.com (Dom Finn)</managingEditor>
+    <webMaster>dom@domfinn.com (Dom Finn)</webMaster>
+    <lastBuildDate>Sat, 04 Nov 2023 21:14:25 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 11 04 First Post</title>
+      <link>http://localhost:1313/post/2023-11-04-first-post/</link>
+      <pubDate>Sat, 04 Nov 2023 21:14:25 +1100</pubDate><author>dom@domfinn.com (Dom Finn)</author>
+      <guid>http://localhost:1313/post/2023-11-04-first-post/</guid>
+      <description>Testing 1 2 3 This is one of the first posts&#xA;flowchart LR A[Identify User Journeys]--&amp;gt;B[Set Aspirational Objectives] B--&amp;gt;C[Define Service Level Indicators] C--&amp;gt;D[Agree on Service Level Objectives] D--&amp;gt;E[Respond to Error Budget Events] E--&amp;gt;F[Review and Reason Actions] </description>
+    </item>
+  </channel>
+</rss>

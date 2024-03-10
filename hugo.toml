@@ -1,6 +1,6 @@
 baseurl = "https://domfinn.com"
 DefaultContentLanguage = "en"
-title = "Thoughts to Words"
+title = "Cost Effective Reliability"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -18,7 +18,7 @@ googleAnalytics = "G-B509YF2YQ4"
   homeTitle = "Dom Finn" # Set a different text for the header on the home page
   subtitle = "SRE | Technology | Personal"
   mainSections = ["post","posts"]
-#  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/avatar-dom.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
